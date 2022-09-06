@@ -133,9 +133,9 @@ GameObject:
   m_Component:
   - component: {fileID: 5331097}
   - component: {fileID: 5331098}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (70)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -301,9 +301,9 @@ GameObject:
   m_Component:
   - component: {fileID: 23060031}
   - component: {fileID: 23060032}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (60)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -385,9 +385,9 @@ GameObject:
   m_Component:
   - component: {fileID: 24281270}
   - component: {fileID: 24281271}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (3)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -469,9 +469,9 @@ GameObject:
   m_Component:
   - component: {fileID: 27270723}
   - component: {fileID: 27270724}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (90)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -553,9 +553,9 @@ GameObject:
   m_Component:
   - component: {fileID: 47879718}
   - component: {fileID: 47879719}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (20)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -637,9 +637,9 @@ GameObject:
   m_Component:
   - component: {fileID: 49800085}
   - component: {fileID: 49800086}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (86)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -721,9 +721,9 @@ GameObject:
   m_Component:
   - component: {fileID: 55640476}
   - component: {fileID: 55640477}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (35)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -805,9 +805,9 @@ GameObject:
   m_Component:
   - component: {fileID: 61124525}
   - component: {fileID: 61124526}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (87)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -889,9 +889,9 @@ GameObject:
   m_Component:
   - component: {fileID: 64365436}
   - component: {fileID: 64365437}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (11)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -973,9 +973,9 @@ GameObject:
   m_Component:
   - component: {fileID: 69363135}
   - component: {fileID: 69363136}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (7)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1057,9 +1057,9 @@ GameObject:
   m_Component:
   - component: {fileID: 72797196}
   - component: {fileID: 72797197}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (89)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1141,9 +1141,9 @@ GameObject:
   m_Component:
   - component: {fileID: 78131582}
   - component: {fileID: 78131583}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (33)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1225,9 +1225,9 @@ GameObject:
   m_Component:
   - component: {fileID: 79736039}
   - component: {fileID: 79736040}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (54)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1383,37 +1383,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &86366200
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 86366201}
-  m_Layer: 0
-  m_Name: Point
-  m_TagString: Untagged
-  m_Icon: {fileID: -5442936267250999957, guid: 0000000000000000d000000000000000, type: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &86366201
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 86366200}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.32, y: 0.09, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 861267277}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &90988865
 GameObject:
   m_ObjectHideFlags: 0
@@ -1424,9 +1393,9 @@ GameObject:
   m_Component:
   - component: {fileID: 90988866}
   - component: {fileID: 90988867}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (84)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1508,9 +1477,9 @@ GameObject:
   m_Component:
   - component: {fileID: 105137204}
   - component: {fileID: 105137205}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (43)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1592,9 +1561,9 @@ GameObject:
   m_Component:
   - component: {fileID: 106223225}
   - component: {fileID: 106223226}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (62)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1676,9 +1645,9 @@ GameObject:
   m_Component:
   - component: {fileID: 106596064}
   - component: {fileID: 106596065}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (51)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1760,9 +1729,9 @@ GameObject:
   m_Component:
   - component: {fileID: 109880157}
   - component: {fileID: 109880158}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (83)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1844,9 +1813,9 @@ GameObject:
   m_Component:
   - component: {fileID: 118515356}
   - component: {fileID: 118515357}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (19)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1928,9 +1897,9 @@ GameObject:
   m_Component:
   - component: {fileID: 124022776}
   - component: {fileID: 124022777}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (58)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2012,9 +1981,9 @@ GameObject:
   m_Component:
   - component: {fileID: 137810120}
   - component: {fileID: 137810121}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (27)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2096,9 +2065,9 @@ GameObject:
   m_Component:
   - component: {fileID: 141312689}
   - component: {fileID: 141312690}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (77)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2264,9 +2233,9 @@ GameObject:
   m_Component:
   - component: {fileID: 155466855}
   - component: {fileID: 155466856}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (6)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2338,6 +2307,37 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &171830085
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 171830086}
+  m_Layer: 0
+  m_Name: Firepoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &171830086
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 171830085}
+  m_LocalRotation: {x: 0, y: -0, z: -0.9999807, w: 0.0062194164}
+  m_LocalPosition: {x: -0.237, y: -0.328, z: -1.2584275}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 520575106}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &181164608
 GameObject:
   m_ObjectHideFlags: 0
@@ -2516,9 +2516,9 @@ GameObject:
   m_Component:
   - component: {fileID: 209778266}
   - component: {fileID: 209778267}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (85)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2600,9 +2600,9 @@ GameObject:
   m_Component:
   - component: {fileID: 224944516}
   - component: {fileID: 224944517}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (14)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2684,9 +2684,9 @@ GameObject:
   m_Component:
   - component: {fileID: 227108542}
   - component: {fileID: 227108543}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (75)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2852,9 +2852,9 @@ GameObject:
   m_Component:
   - component: {fileID: 240707645}
   - component: {fileID: 240707646}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (46)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2936,9 +2936,11 @@ GameObject:
   m_Component:
   - component: {fileID: 254167880}
   - component: {fileID: 254167881}
-  m_Layer: 0
+  - component: {fileID: 254167883}
+  - component: {fileID: 254167882}
+  m_Layer: 3
   m_Name: bluePlate (26)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3010,6 +3012,49 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!66 &254167882
+CompositeCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 254167879}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_GeometryType: 0
+  m_GenerationType: 0
+  m_EdgeRadius: 0
+  m_ColliderPaths: []
+  m_CompositePaths:
+    m_Paths: []
+  m_VertexDistance: 0.0005
+  m_OffsetDistance: 0.00005
+--- !u!50 &254167883
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 254167879}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &266165481
 GameObject:
   m_ObjectHideFlags: 0
@@ -3020,9 +3065,9 @@ GameObject:
   m_Component:
   - component: {fileID: 266165482}
   - component: {fileID: 266165483}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (64)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3104,9 +3149,9 @@ GameObject:
   m_Component:
   - component: {fileID: 295180921}
   - component: {fileID: 295180922}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (81)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3188,9 +3233,9 @@ GameObject:
   m_Component:
   - component: {fileID: 297046433}
   - component: {fileID: 297046434}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3272,9 +3317,9 @@ GameObject:
   m_Component:
   - component: {fileID: 297761607}
   - component: {fileID: 297761608}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (33)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3356,9 +3401,9 @@ GameObject:
   m_Component:
   - component: {fileID: 298298619}
   - component: {fileID: 298298620}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (44)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3440,9 +3485,9 @@ GameObject:
   m_Component:
   - component: {fileID: 311958052}
   - component: {fileID: 311958053}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (80)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3524,9 +3569,9 @@ GameObject:
   m_Component:
   - component: {fileID: 312324528}
   - component: {fileID: 312324529}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (2)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3608,9 +3653,9 @@ GameObject:
   m_Component:
   - component: {fileID: 323739062}
   - component: {fileID: 323739063}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (60)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3697,9 +3742,9 @@ GameObject:
   m_Component:
   - component: {fileID: 330034920}
   - component: {fileID: 330034921}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (38)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3781,9 +3826,9 @@ GameObject:
   m_Component:
   - component: {fileID: 333447574}
   - component: {fileID: 333447575}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (86)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3922,9 +3967,9 @@ GameObject:
   m_Component:
   - component: {fileID: 346598289}
   - component: {fileID: 346598290}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (53)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4006,9 +4051,9 @@ GameObject:
   m_Component:
   - component: {fileID: 358917829}
   - component: {fileID: 358917830}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (71)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4090,9 +4135,9 @@ GameObject:
   m_Component:
   - component: {fileID: 359921330}
   - component: {fileID: 359921331}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (82)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4258,9 +4303,9 @@ GameObject:
   m_Component:
   - component: {fileID: 362847649}
   - component: {fileID: 362847650}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (50)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4342,9 +4387,9 @@ GameObject:
   m_Component:
   - component: {fileID: 368891014}
   - component: {fileID: 368891015}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (81)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4426,9 +4471,9 @@ GameObject:
   m_Component:
   - component: {fileID: 376051796}
   - component: {fileID: 376051797}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (4)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4510,9 +4555,9 @@ GameObject:
   m_Component:
   - component: {fileID: 378640976}
   - component: {fileID: 378640977}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (8)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4594,9 +4639,9 @@ GameObject:
   m_Component:
   - component: {fileID: 389342475}
   - component: {fileID: 389342476}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (74)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4762,9 +4807,9 @@ GameObject:
   m_Component:
   - component: {fileID: 418582495}
   - component: {fileID: 418582496}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (58)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4846,9 +4891,9 @@ GameObject:
   m_Component:
   - component: {fileID: 421521232}
   - component: {fileID: 421521233}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (9)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5014,9 +5059,9 @@ GameObject:
   m_Component:
   - component: {fileID: 436922626}
   - component: {fileID: 436922627}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (26)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5098,9 +5143,9 @@ GameObject:
   m_Component:
   - component: {fileID: 453449723}
   - component: {fileID: 453449724}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (25)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5266,9 +5311,9 @@ GameObject:
   m_Component:
   - component: {fileID: 464840113}
   - component: {fileID: 464840114}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (56)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5350,9 +5395,9 @@ GameObject:
   m_Component:
   - component: {fileID: 469011103}
   - component: {fileID: 469011104}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (15)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5518,9 +5563,9 @@ GameObject:
   m_Component:
   - component: {fileID: 489876759}
   - component: {fileID: 489876760}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (14)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5602,9 +5647,9 @@ GameObject:
   m_Component:
   - component: {fileID: 491900324}
   - component: {fileID: 491900325}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (28)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5686,9 +5731,9 @@ GameObject:
   m_Component:
   - component: {fileID: 500018935}
   - component: {fileID: 500018936}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (76)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5770,9 +5815,9 @@ GameObject:
   m_Component:
   - component: {fileID: 512126504}
   - component: {fileID: 512126505}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (36)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5854,9 +5899,9 @@ GameObject:
   m_Component:
   - component: {fileID: 516279099}
   - component: {fileID: 516279100}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (82)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6033,7 +6078,7 @@ AudioSource:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 3043cbe2c9fc348bdb717460bd2b19eb, type: 3}
@@ -6135,6 +6180,7 @@ GameObject:
   - component: {fileID: 520575104}
   - component: {fileID: 520575103}
   - component: {fileID: 520575102}
+  - component: {fileID: 520575107}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -6155,6 +6201,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speedPlayer: 10
+  cam: {fileID: 519420031}
 --- !u!61 &520575103
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6201,7 +6248,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!212 &520575105
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -6242,7 +6289,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 2
+  m_SortingOrder: 10
   m_Sprite: {fileID: 21300000, guid: 81d652493254845dab8916da4843c82b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -6261,15 +6308,31 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 520575101}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.31, y: -2.61, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: 0.9999807, w: 0.0062194164}
+  m_LocalPosition: {x: 0.42475754, y: -0.59265226, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 861267277}
+  - {fileID: 171830086}
   m_Father: {fileID: 0}
   m_RootOrder: 10
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 179.287}
+--- !u!114 &520575107
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 520575101}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a88d34e3d0ddfe14ca055487d0afb152, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  firePoint: {fileID: 171830086}
+  bulletPrefab: {fileID: 8108773178551170047, guid: d39153f0efc14b04ca96593e8d7468f1, type: 3}
+  bulletForce: 20
 --- !u!1 &526545572
 GameObject:
   m_ObjectHideFlags: 0
@@ -6364,9 +6427,9 @@ GameObject:
   m_Component:
   - component: {fileID: 527977670}
   - component: {fileID: 527977671}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (27)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6448,9 +6511,9 @@ GameObject:
   m_Component:
   - component: {fileID: 534048191}
   - component: {fileID: 534048192}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (72)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6532,9 +6595,9 @@ GameObject:
   m_Component:
   - component: {fileID: 538634082}
   - component: {fileID: 538634083}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (29)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6616,9 +6679,9 @@ GameObject:
   m_Component:
   - component: {fileID: 545223882}
   - component: {fileID: 545223883}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (55)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6769,9 +6832,9 @@ GameObject:
   m_Component:
   - component: {fileID: 568631671}
   - component: {fileID: 568631672}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (85)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6937,9 +7000,9 @@ GameObject:
   m_Component:
   - component: {fileID: 578332319}
   - component: {fileID: 578332320}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (35)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7021,9 +7084,9 @@ GameObject:
   m_Component:
   - component: {fileID: 581173734}
   - component: {fileID: 581173735}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (31)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7105,9 +7168,9 @@ GameObject:
   m_Component:
   - component: {fileID: 588478352}
   - component: {fileID: 588478353}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (83)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7189,9 +7252,9 @@ GameObject:
   m_Component:
   - component: {fileID: 590390637}
   - component: {fileID: 590390638}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (23)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7273,9 +7336,9 @@ GameObject:
   m_Component:
   - component: {fileID: 591086244}
   - component: {fileID: 591086245}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (57)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7357,9 +7420,9 @@ GameObject:
   m_Component:
   - component: {fileID: 601112071}
   - component: {fileID: 601112072}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (73)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7441,9 +7504,9 @@ GameObject:
   m_Component:
   - component: {fileID: 605893951}
   - component: {fileID: 605893952}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (66)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7525,9 +7588,9 @@ GameObject:
   m_Component:
   - component: {fileID: 606604296}
   - component: {fileID: 606604297}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (88)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7609,9 +7672,9 @@ GameObject:
   m_Component:
   - component: {fileID: 610752728}
   - component: {fileID: 610752729}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (19)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7693,9 +7756,9 @@ GameObject:
   m_Component:
   - component: {fileID: 611691418}
   - component: {fileID: 611691419}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (9)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7777,9 +7840,9 @@ GameObject:
   m_Component:
   - component: {fileID: 612489414}
   - component: {fileID: 612489415}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (2)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7851,6 +7914,37 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &612710946
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 612710947}
+  m_Layer: 0
+  m_Name: Terror
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &612710947
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 612710946}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1109291346}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &614908888
 GameObject:
   m_ObjectHideFlags: 0
@@ -7861,9 +7955,9 @@ GameObject:
   m_Component:
   - component: {fileID: 614908889}
   - component: {fileID: 614908890}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (12)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8029,9 +8123,9 @@ GameObject:
   m_Component:
   - component: {fileID: 644660586}
   - component: {fileID: 644660587}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (87)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8113,9 +8207,9 @@ GameObject:
   m_Component:
   - component: {fileID: 656644734}
   - component: {fileID: 656644735}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (59)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8197,9 +8291,9 @@ GameObject:
   m_Component:
   - component: {fileID: 660851622}
   - component: {fileID: 660851623}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (41)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8281,9 +8375,9 @@ GameObject:
   m_Component:
   - component: {fileID: 662479337}
   - component: {fileID: 662479338}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (31)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8365,9 +8459,9 @@ GameObject:
   m_Component:
   - component: {fileID: 691769706}
   - component: {fileID: 691769707}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (12)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8617,9 +8711,9 @@ GameObject:
   m_Component:
   - component: {fileID: 703762586}
   - component: {fileID: 703762587}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (32)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8701,9 +8795,9 @@ GameObject:
   m_Component:
   - component: {fileID: 707539413}
   - component: {fileID: 707539414}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (37)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8842,9 +8936,9 @@ GameObject:
   m_Component:
   - component: {fileID: 708572508}
   - component: {fileID: 708572509}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (77)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8926,9 +9020,9 @@ GameObject:
   m_Component:
   - component: {fileID: 709742372}
   - component: {fileID: 709742373}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (67)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9010,9 +9104,9 @@ GameObject:
   m_Component:
   - component: {fileID: 716187409}
   - component: {fileID: 716187410}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (98)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9094,9 +9188,9 @@ GameObject:
   m_Component:
   - component: {fileID: 718621445}
   - component: {fileID: 718621446}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (46)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9262,9 +9356,9 @@ GameObject:
   m_Component:
   - component: {fileID: 746850304}
   - component: {fileID: 746850305}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (51)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9346,9 +9440,9 @@ GameObject:
   m_Component:
   - component: {fileID: 749681552}
   - component: {fileID: 749681553}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (10)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9430,9 +9524,9 @@ GameObject:
   m_Component:
   - component: {fileID: 757213462}
   - component: {fileID: 757213463}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (50)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9598,9 +9692,9 @@ GameObject:
   m_Component:
   - component: {fileID: 772395882}
   - component: {fileID: 772395883}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (1)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9682,9 +9776,9 @@ GameObject:
   m_Component:
   - component: {fileID: 774224151}
   - component: {fileID: 774224152}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (10)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9850,9 +9944,9 @@ GameObject:
   m_Component:
   - component: {fileID: 789402431}
   - component: {fileID: 789402432}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (10)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9934,9 +10028,9 @@ GameObject:
   m_Component:
   - component: {fileID: 793087124}
   - component: {fileID: 793087125}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (59)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10102,9 +10196,9 @@ GameObject:
   m_Component:
   - component: {fileID: 819660929}
   - component: {fileID: 819660930}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (45)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10186,9 +10280,9 @@ GameObject:
   m_Component:
   - component: {fileID: 821950265}
   - component: {fileID: 821950266}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (71)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10270,9 +10364,9 @@ GameObject:
   m_Component:
   - component: {fileID: 848168442}
   - component: {fileID: 848168443}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (47)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10354,9 +10448,9 @@ GameObject:
   m_Component:
   - component: {fileID: 853092068}
   - component: {fileID: 853092069}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (18)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10428,6 +10522,111 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &859833542
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 859833545}
+  - component: {fileID: 859833544}
+  - component: {fileID: 859833546}
+  m_Layer: 0
+  m_Name: explosion
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!212 &859833544
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 859833542}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: a94abc694e2af4f818bfb95cd376d830, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 7.65625, y: 1.125}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &859833545
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 859833542}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.65, y: -0.06, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 12
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &859833546
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 859833542}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 6ac4d1c34561238449aebbc5d6b5c8ab, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &861267276
 GameObject:
   m_ObjectHideFlags: 0
@@ -10438,7 +10637,6 @@ GameObject:
   m_Component:
   - component: {fileID: 861267277}
   - component: {fileID: 861267279}
-  - component: {fileID: 861267278}
   m_Layer: 0
   m_Name: 1-Uzi
   m_TagString: Untagged
@@ -10453,31 +10651,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 861267276}
-  m_LocalRotation: {x: -0, y: -0, z: -0.01946793, w: -0.99981046}
-  m_LocalPosition: {x: 0.3399999, y: -0.099999905, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: 0.72060204, w: -0.69334894}
+  m_LocalPosition: {x: -0.321, y: -0.108, z: 0}
   m_LocalScale: {x: 0.5867, y: 0.7122, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 86366201}
+  m_Children: []
   m_Father: {fileID: 520575106}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -357.769}
---- !u!114 &861267278
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 861267276}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e647e04376f2b67449050de6e5e23c63, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  offset: -90
-  startTime: 0
-  bullet: {fileID: 8108773178551170047, guid: d39153f0efc14b04ca96593e8d7468f1, type: 3}
-  point: {fileID: 86366201}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -452.208}
 --- !u!212 &861267279
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -10540,9 +10721,9 @@ GameObject:
   m_Component:
   - component: {fileID: 867609102}
   - component: {fileID: 867609103}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (92)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10624,9 +10805,9 @@ GameObject:
   m_Component:
   - component: {fileID: 874655476}
   - component: {fileID: 874655477}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (5)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10876,9 +11057,9 @@ GameObject:
   m_Component:
   - component: {fileID: 911990858}
   - component: {fileID: 911990859}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (7)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10960,9 +11141,9 @@ GameObject:
   m_Component:
   - component: {fileID: 916727302}
   - component: {fileID: 916727303}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (66)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11044,9 +11225,9 @@ GameObject:
   m_Component:
   - component: {fileID: 934572066}
   - component: {fileID: 934572067}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (29)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11296,9 +11477,9 @@ GameObject:
   m_Component:
   - component: {fileID: 981437019}
   - component: {fileID: 981437020}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (38)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11380,9 +11561,9 @@ GameObject:
   m_Component:
   - component: {fileID: 982654360}
   - component: {fileID: 982654361}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (3)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11464,9 +11645,9 @@ GameObject:
   m_Component:
   - component: {fileID: 998874185}
   - component: {fileID: 998874186}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (47)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11716,9 +11897,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1048357795}
   - component: {fileID: 1048357796}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (93)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11800,9 +11981,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1052333615}
   - component: {fileID: 1052333616}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (48)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12220,9 +12401,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1087877947}
   - component: {fileID: 1087877948}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (32)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12304,9 +12485,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1089218684}
   - component: {fileID: 1089218685}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (7)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12378,6 +12559,175 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1109291341
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1109291346}
+  - component: {fileID: 1109291345}
+  - component: {fileID: 1109291344}
+  - component: {fileID: 1109291343}
+  - component: {fileID: 1109291342}
+  - component: {fileID: 1109291348}
+  m_Layer: 0
+  m_Name: Enemy
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1109291342
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1109291341}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afb01e2e6a6941b48bd5863cc3519835, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 400
+  nextWayPointDistance: 3
+  target: {fileID: 520575106}
+--- !u!50 &1109291343
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1109291341}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 1.5
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
+--- !u!58 &1109291344
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1109291341}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.5
+--- !u!212 &1109291345
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1109291341}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: 9c41d80791b3f4cca8ee120e2f4de53a, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &1109291346
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1109291341}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.7246, y: -2.8079, z: 0}
+  m_LocalScale: {x: 0.95333856, y: 0.8118901, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 612710947}
+  m_Father: {fileID: 0}
+  m_RootOrder: 11
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1109291348
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1109291341}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 373b52eb9bf8c40f785bb6947a1aee66, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 1
+  drawGizmos: 1
+  detailedGizmos: 0
+  startEndModifier:
+    addPoints: 0
+    exactStartPoint: 3
+    exactEndPoint: 3
+    useRaycasting: 0
+    mask:
+      serializedVersion: 2
+      m_Bits: 4294967295
+    useGraphRaycasting: 0
+  traversableTags: -1
+  tagPenalties: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  graphMask:
+    value: -1
 --- !u!1 &1126704441
 GameObject:
   m_ObjectHideFlags: 0
@@ -12556,9 +12906,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1132289689}
   - component: {fileID: 1132289690}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (20)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12640,9 +12990,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1132643450}
   - component: {fileID: 1132643451}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (6)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12724,9 +13074,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1141194928}
   - component: {fileID: 1141194929}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (49)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12892,9 +13242,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1151803540}
   - component: {fileID: 1151803541}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (44)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12976,9 +13326,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1153136330}
   - component: {fileID: 1153136331}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (45)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13144,9 +13494,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1161524520}
   - component: {fileID: 1161524521}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (8)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13228,9 +13578,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1170790778}
   - component: {fileID: 1170790779}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (84)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13312,9 +13662,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1172247343}
   - component: {fileID: 1172247344}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (68)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13396,9 +13746,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1176012653}
   - component: {fileID: 1176012654}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (65)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13569,9 +13919,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1226142846}
   - component: {fileID: 1226142847}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (65)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13653,9 +14003,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1237818445}
   - component: {fileID: 1237818446}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (74)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13821,9 +14171,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1241992079}
   - component: {fileID: 1241992080}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (28)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13905,9 +14255,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1252169460}
   - component: {fileID: 1252169461}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (5)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13989,9 +14339,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1259285292}
   - component: {fileID: 1259285293}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (12)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14073,9 +14423,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1261289191}
   - component: {fileID: 1261289192}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (63)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14157,9 +14507,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1265334254}
   - component: {fileID: 1265334255}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (79)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14241,9 +14591,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1268980044}
   - component: {fileID: 1268980045}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (53)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14325,9 +14675,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1274562261}
   - component: {fileID: 1274562262}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (21)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14481,7 +14831,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1303261389
 GameObject:
@@ -14493,9 +14843,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1303261390}
   - component: {fileID: 1303261391}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (5)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14577,9 +14927,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1326732752}
   - component: {fileID: 1326732753}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (42)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14661,9 +15011,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1329445615}
   - component: {fileID: 1329445616}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (8)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14745,9 +15095,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1338055617}
   - component: {fileID: 1338055618}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (34)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14829,9 +15179,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1350249995}
   - component: {fileID: 1350249996}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (4)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14997,9 +15347,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1367627255}
   - component: {fileID: 1367627256}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (6)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15081,9 +15431,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1369725011}
   - component: {fileID: 1369725012}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (94)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15249,9 +15599,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1390579938}
   - component: {fileID: 1390579939}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (15)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15333,9 +15683,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1394511509}
   - component: {fileID: 1394511510}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (72)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15417,9 +15767,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1394800147}
   - component: {fileID: 1394800148}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (4)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15501,9 +15851,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1428300134}
   - component: {fileID: 1428300135}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (23)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15669,9 +16019,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1430785890}
   - component: {fileID: 1430785891}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (40)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15753,9 +16103,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1437627262}
   - component: {fileID: 1437627263}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (11)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15837,9 +16187,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1437759370}
   - component: {fileID: 1437759371}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (68)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15921,9 +16271,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1455558685}
   - component: {fileID: 1455558686}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (16)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16005,9 +16355,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1465562009}
   - component: {fileID: 1465562010}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (1)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17219,9 +17569,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1522386019}
   - component: {fileID: 1522386020}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (40)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17303,9 +17653,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1524270192}
   - component: {fileID: 1524270193}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (89)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17387,9 +17737,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1555737596}
   - component: {fileID: 1555737597}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (88)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17471,9 +17821,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1561795224}
   - component: {fileID: 1561795225}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (9)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17639,9 +17989,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1564169612}
   - component: {fileID: 1564169613}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (30)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17891,9 +18241,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1587914456}
   - component: {fileID: 1587914457}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (16)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18059,9 +18409,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1614512447}
   - component: {fileID: 1614512448}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (63)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18143,9 +18493,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1622441433}
   - component: {fileID: 1622441434}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (70)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18227,9 +18577,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1623019396}
   - component: {fileID: 1623019397}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (69)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18352,9 +18702,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1644505654}
   - component: {fileID: 1644505655}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (11)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18436,9 +18786,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1646427505}
   - component: {fileID: 1646427506}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (13)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18520,9 +18870,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1649433499}
   - component: {fileID: 1649433500}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (73)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18670,13 +19020,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1650366449}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -12.43, y: 6.41, z: 0}
   m_LocalScale: {x: 24.784626, y: 15.005902, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1653754822
 GameObject:
@@ -18688,9 +19038,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1653754823}
   - component: {fileID: 1653754824}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (69)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18772,9 +19122,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1657381304}
   - component: {fileID: 1657381305}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (21)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18891,9 +19241,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1679021522}
   - component: {fileID: 1679021523}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (34)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18975,9 +19325,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1684371757}
   - component: {fileID: 1684371758}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (57)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19059,9 +19409,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1686174804}
   - component: {fileID: 1686174805}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (61)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19205,9 +19555,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1702629739}
   - component: {fileID: 1702629740}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (30)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19289,9 +19639,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1703021423}
   - component: {fileID: 1703021424}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (37)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19373,9 +19723,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1725363171}
   - component: {fileID: 1725363172}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (42)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19457,9 +19807,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1725630807}
   - component: {fileID: 1725630808}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (43)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19541,9 +19891,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1731794932}
   - component: {fileID: 1731794933}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (75)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19625,9 +19975,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1759716598}
   - component: {fileID: 1759716599}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (22)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19793,9 +20143,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1773634528}
   - component: {fileID: 1773634529}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (48)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19877,9 +20227,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1784619741}
   - component: {fileID: 1784619742}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19961,9 +20311,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1798071344}
   - component: {fileID: 1798071345}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (24)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20045,9 +20395,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1810312488}
   - component: {fileID: 1810312489}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (39)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20129,9 +20479,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1817873885}
   - component: {fileID: 1817873886}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (17)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20213,9 +20563,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1843143887}
   - component: {fileID: 1843143888}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (25)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20297,9 +20647,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1844624714}
   - component: {fileID: 1844624715}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (55)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20381,9 +20731,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1845482199}
   - component: {fileID: 1845482200}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (54)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20465,9 +20815,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1849623275}
   - component: {fileID: 1849623276}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (22)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20549,9 +20899,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1850770693}
   - component: {fileID: 1850770694}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (56)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20806,9 +21156,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1889809337}
   - component: {fileID: 1889809338}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (36)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20890,9 +21240,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1911414128}
   - component: {fileID: 1911414129}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (79)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20974,9 +21324,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1911913359}
   - component: {fileID: 1911913360}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (3)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21058,9 +21408,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1916120735}
   - component: {fileID: 1916120736}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (91)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21142,9 +21492,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1923763849}
   - component: {fileID: 1923763850}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (2)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21310,9 +21660,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1942195867}
   - component: {fileID: 1942195868}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (97)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21394,9 +21744,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1942531478}
   - component: {fileID: 1942531479}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21478,9 +21828,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1945946387}
   - component: {fileID: 1945946388}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (80)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21646,9 +21996,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1964625247}
   - component: {fileID: 1964625248}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (61)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21730,9 +22080,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1975377880}
   - component: {fileID: 1975377881}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (67)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21814,9 +22164,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1982152193}
   - component: {fileID: 1982152194}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (18)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21898,9 +22248,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1996946667}
   - component: {fileID: 1996946668}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (52)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21982,9 +22332,9 @@ GameObject:
   m_Component:
   - component: {fileID: 2000160563}
   - component: {fileID: 2000160564}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (62)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22056,63 +22406,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1001 &2006101770
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 8108773178551170047, guid: d39153f0efc14b04ca96593e8d7468f1, type: 3}
-      propertyPath: m_Name
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 8607998085311649497, guid: d39153f0efc14b04ca96593e8d7468f1, type: 3}
-      propertyPath: m_RootOrder
-      value: 11
-      objectReference: {fileID: 0}
-    - target: {fileID: 8607998085311649497, guid: d39153f0efc14b04ca96593e8d7468f1, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0.7001566
-      objectReference: {fileID: 0}
-    - target: {fileID: 8607998085311649497, guid: d39153f0efc14b04ca96593e8d7468f1, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -3.380403
-      objectReference: {fileID: 0}
-    - target: {fileID: 8607998085311649497, guid: d39153f0efc14b04ca96593e8d7468f1, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8607998085311649497, guid: d39153f0efc14b04ca96593e8d7468f1, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8607998085311649497, guid: d39153f0efc14b04ca96593e8d7468f1, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8607998085311649497, guid: d39153f0efc14b04ca96593e8d7468f1, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8607998085311649497, guid: d39153f0efc14b04ca96593e8d7468f1, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8607998085311649497, guid: d39153f0efc14b04ca96593e8d7468f1, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8607998085311649497, guid: d39153f0efc14b04ca96593e8d7468f1, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8607998085311649497, guid: d39153f0efc14b04ca96593e8d7468f1, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d39153f0efc14b04ca96593e8d7468f1, type: 3}
 --- !u!1 &2015411005
 GameObject:
   m_ObjectHideFlags: 0
@@ -22123,9 +22416,9 @@ GameObject:
   m_Component:
   - component: {fileID: 2015411006}
   - component: {fileID: 2015411007}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (76)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22207,9 +22500,9 @@ GameObject:
   m_Component:
   - component: {fileID: 2034552016}
   - component: {fileID: 2034552017}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (41)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22291,9 +22584,9 @@ GameObject:
   m_Component:
   - component: {fileID: 2047305894}
   - component: {fileID: 2047305895}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (95)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22375,9 +22668,9 @@ GameObject:
   m_Component:
   - component: {fileID: 2051725225}
   - component: {fileID: 2051725226}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (1)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22543,9 +22836,9 @@ GameObject:
   m_Component:
   - component: {fileID: 2065787806}
   - component: {fileID: 2065787807}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (78)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22627,9 +22920,9 @@ GameObject:
   m_Component:
   - component: {fileID: 2068310434}
   - component: {fileID: 2068310435}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (78)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22711,9 +23004,9 @@ GameObject:
   m_Component:
   - component: {fileID: 2070133475}
   - component: {fileID: 2070133476}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (64)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22795,9 +23088,9 @@ GameObject:
   m_Component:
   - component: {fileID: 2072959282}
   - component: {fileID: 2072959283}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (96)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22879,9 +23172,9 @@ GameObject:
   m_Component:
   - component: {fileID: 2100769585}
   - component: {fileID: 2100769586}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (13)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22963,9 +23256,9 @@ GameObject:
   m_Component:
   - component: {fileID: 2117760165}
   - component: {fileID: 2117760166}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (52)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23047,9 +23340,9 @@ GameObject:
   m_Component:
   - component: {fileID: 2121519108}
   - component: {fileID: 2121519109}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (24)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23131,9 +23424,9 @@ GameObject:
   m_Component:
   - component: {fileID: 2123895996}
   - component: {fileID: 2123895997}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (49)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23215,9 +23508,9 @@ GameObject:
   m_Component:
   - component: {fileID: 2130470619}
   - component: {fileID: 2130470620}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (39)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23299,9 +23592,9 @@ GameObject:
   m_Component:
   - component: {fileID: 2137135351}
   - component: {fileID: 2137135352}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: bluePlate (17)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

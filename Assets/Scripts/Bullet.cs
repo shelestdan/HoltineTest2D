@@ -1,42 +1,26 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Bullet : MonoBehaviour
 {
-    public float speed;
-    public float distance;
-    public int damage;
-    public GameObject destroyEffect;
-    public GameObject bloodSplash;
-    public LayerMask layerMask;
-    
-    void Update()
+    public Transform firePoint;
+    public GameObject bulletPrefab;
+
+    public float bulletForce = 1f;
+
+    public void Update()
     {
-        var transform1 = transform;
-        var other = Physics2D.Raycast(transform1.position, transform1.up, distance, layerMask);
-        if (other.collider != null)
+        if (Input.GetButtonDown("Fire1"))
         {
-            if (other.collider.CompareTag($"Enemy"))
-            {
-                other.collider.GetComponent<Enemy>().TakeDamage(damage);
-                Destroy();
-            }
-
-            if (other.collider.CompareTag($"Ground"))
-            {
-                Destroy();
-            }
+            Shoot();
         }
-        
-        transform1.Translate(Vector2.up * speed * Time.deltaTime);
+    }
+    
+    private void Shoot()
+    {
+        var bullet = Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
+        var rbBullet = bullet.GetComponent<Rigidbody2D>();
+        rbBullet.AddForce(firePoint.up * bulletForce, ForceMode2D.Impulse);
     }
 
-    void Destroy()
-    {
-        var position = transform.position;
-        Instantiate(destroyEffect, position, Quaternion.identity);
-        Instantiate(bloodSplash, position, Quaternion.identity);
-        Destroy(gameObject);
-    }
+    
 }
