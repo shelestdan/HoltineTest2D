@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c84fba82-1b9e-4854-a2d8-09f3986ef181" name="Changes" comment="Add Enemy + bullet effect">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.HoltineTest2D/.idea/shelf/Uncommitted_changes_before_Update_at_31_08_2022_0_05_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.HoltineTest2D/.idea/shelf/Uncommitted_changes_before_Update_at_31_08_2022_0_05__Changes_.xml" beforeDir="false" />
+    <list default="true" id="c84fba82-1b9e-4854-a2d8-09f3986ef181" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.HoltineTest2D/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HoltineTest2D/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BulletCol.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BulletCol.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/effects/New Animation.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/effects/New Animation.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/effects/explosion_12.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/effects/explosion_12.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +20,10 @@
       </list>
     </option>
     <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://E:/GitUnityBass/HoltineTest2D/Assets/Scripts/Enemy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Patrol.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -86,7 +87,8 @@
       <workItem from="1662314697234" duration="4150000" />
       <workItem from="1662469107437" duration="1752000" />
       <workItem from="1662471511577" duration="10501000" />
-      <workItem from="1662630244100" duration="768000" />
+      <workItem from="1662630244100" duration="9744000" />
+      <workItem from="1663260733378" duration="2559000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1661891845421</created>
@@ -116,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662492591159</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Fix">
+      <created>1662631142917</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662631142917</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +150,7 @@
     <MESSAGE value="+move" />
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Add Enemy + bullet effect" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Enemy + bullet effect" />
+    <MESSAGE value="Fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix" />
   </component>
 </project>
