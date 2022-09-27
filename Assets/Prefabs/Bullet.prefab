@@ -75,7 +75,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 20
+  m_SortingOrder: 19
   m_Sprite: {fileID: 21300000, guid: 8010373ff752c4a4b8a10ad4166b8ed7, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -121,9 +121,9 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: -0.0024901628}
   serializedVersion: 2
-  m_Radius: 0.15625
+  m_Radius: 0.17168915
 --- !u!114 &-7298527640871855950
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -137,3 +137,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hitEffect: {fileID: 3176088756229111005, guid: 08e69dd1c7ffeee4f930c5945b820640, type: 3}
+  damage: 1
+  whatIsSolid:
+    serializedVersion: 2
+    m_Bits: 385

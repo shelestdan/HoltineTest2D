@@ -6,7 +6,7 @@ public class Bullet : MonoBehaviour
     public GameObject bulletPrefab;
 
     public float bulletForce = 1f;
-
+    
     public void Update()
     {
         if (Input.GetButtonDown("Fire1"))
@@ -21,6 +21,4 @@ public class Bullet : MonoBehaviour
         var rbBullet = bullet.GetComponent<Rigidbody2D>();
         rbBullet.AddForce(firePoint.up * bulletForce, ForceMode2D.Impulse);
     }
-
-    
 }
