@@ -2,8 +2,9 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
-    public int health;
+    public int health = 30;
     public float speed;
+    public GameObject deathEffect;
 
     private void Update()
     {
@@ -11,12 +12,20 @@ public class Enemy : MonoBehaviour
         {
             Destroy(gameObject);
         }
-        //transform.Translate(Vector2.left * (speed * Time.deltaTime));
     }
 
     public void TakeDamage(int damage)
     {
         health -= damage;
-        Debug.Log("Hit!");
+        if (health <= 0)
+        {
+            Die();
+        }
+    }
+
+    void Die()
+    {
+        Instantiate(deathEffect, transform.position, Quaternion.identity);
+        Destroy(gameObject);
     }
 }

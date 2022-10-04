@@ -4,24 +4,20 @@ public class BulletCol : MonoBehaviour
 {
     public GameObject hitEffect;
     public int damage = 3;
-    public float distance;
-    public LayerMask whatIsSolid;
-
-    public void OnCollisionEnter2D(Collision2D collision)
+    
+    public void OnTriggerEnter2D(Collider2D hitInfo)
     {
-        var hitInfo = Physics2D.Raycast(transform.position, transform.up, distance, whatIsSolid); 
-        var effect = Instantiate(hitEffect, transform.position, Quaternion.identity);
-        Destroy(effect, 1.5f);
-        if (hitInfo.collider != null)
+        Enemy enemy = hitInfo.GetComponent<Enemy>();
+        if (enemy != null)
         {
-            if (hitInfo.collider.CompareTag("Enemy"))
-            {
-                hitInfo.collider.GetComponent<Enemy>().TakeDamage(damage);
-            }
-            Destroy(gameObject);
+            enemy.TakeDamage(damage);
         }
+        hitInfo.GetComponent<Collider2D>();
+        var effect = Instantiate(hitEffect, transform.position, Quaternion.identity);
+        Destroy(gameObject);
+        Destroy(effect, 1.5f);
     }
-
+    
     private void Update()
     {
         Destroy(gameObject, 2.7f);
