@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c84fba82-1b9e-4854-a2d8-09f3986ef181" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.HoltineTest2D/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HoltineTest2D/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Bullet.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Bullet.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BulletCol.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BulletCol.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
@@ -92,7 +91,8 @@
       <workItem from="1664304826688" duration="4579000" />
       <workItem from="1664476614050" duration="2912000" />
       <workItem from="1664877644367" duration="3107000" />
-      <workItem from="1664880818875" duration="1290000" />
+      <workItem from="1664880818875" duration="2305000" />
+      <workItem from="1664896614918" duration="2012000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1661891845421</created>
@@ -157,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664479773037</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="+Fix gun">
+      <created>1664882534388</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1664882534388</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,6 +194,7 @@
     <MESSAGE value="+fix" />
     <MESSAGE value="Hit enemy" />
     <MESSAGE value="fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+    <MESSAGE value="+Fix gun" />
+    <option name="LAST_COMMIT_MESSAGE" value="+Fix gun" />
   </component>
 </project>
